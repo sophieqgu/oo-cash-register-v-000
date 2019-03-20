@@ -9,4 +9,5 @@ class CashRegister
     @total 
   end 
   
-  def 
+  def add_item(item)
+    
